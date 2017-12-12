@@ -1,14 +1,21 @@
 {
-  "users": [
+  "posts": [
     {
-      "login": "demo",
-      "password": "demo",
-      "email": "demo@example.com"
-    },
-    {
-      "login": "example",
-      "password": "example",
-      "email": "example@demo.com"
+	"users": [
+	    {
+	      "login": "demo",
+	      "password": "demo",
+	      "email": "demo@example.com"
+	    },
+	    {
+	      "login": "example",
+	      "password": "example",
+	      "email": "example@demo.com"
+	    }
+	]
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
