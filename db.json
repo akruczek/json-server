@@ -1,7 +1,5 @@
 {
-  "posts": [
-    {
-	"users": [
+  "users": [
 	    {
 	      "login": "demo",
 	      "password": "demo",
@@ -12,9 +10,8 @@
 	      "password": "example",
 	      "email": "example@demo.com"
 	    }
-	]
-    }
-  ],
+	],
+
   "profile": {
     "name": "typicode"
   }
